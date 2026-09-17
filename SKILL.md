@@ -17,6 +17,16 @@ Skill nascida do deck da proposta AYRA OS (setembro de 2026): 9 slides, cada um 
 - `references/engine.md`: a estrutura do deck e as pegadinhas técnicas. Ler ao criar um deck novo ou mexer no motor.
 - `scripts/capture.mjs`: captura quadros do dev server em 1:1 para conferir.
 
+## Primeira missão num projeto novo: estudar, depois copiar e melhorar
+
+Nada se cria, tudo se copia e melhora. Ao começar um deck novo:
+
+1. Ler `references/metodo.md` inteiro e `references/analise-por-slide.md` (o olhar educado).
+2. Com esse olhar, ler o código de referência em `references/deck-ayra/` (o deck da proposta AYRA OS, engine e slides, entregue e aprovado). Os comentários de "ponto de atenção" no código são as cicatrizes de cada ajuste, escritas em positivo: dizem o jeito certo, o que conferir, onde deixar margem. Copiar o engine e os padrões de slide que servem; melhorar o que o novo projeto pedir.
+3. Só então propor tema, fontes e a partitura do primeiro slide.
+
+Convenção de comentário no código: cada correção vira um comentário que explicita a forma final e o ponto de atenção ("a etapa preenche depois que a bolinha chega", "altura = padding + cabeçalho + fileiras…"). Sem descrever o erro antigo, para a forma errada nunca virar memória.
+
 ## O fluxo, por slide
 
 1. **Reler a seção do texto-fonte** (a proposta) que o slide cobre. Perguntar: esse slide resume outro? Se sim, ele vira o último passo do outro, não um slide.
