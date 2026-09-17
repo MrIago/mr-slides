@@ -15,7 +15,18 @@ Skill nascida do deck da proposta AYRA OS (setembro de 2026): 9 slides, cada um 
 - `references/analise-por-slide.md`: para cada slide já feito, como pensar desde o início, pontos de atenção e conferências só no código. Ler o slide parecido com o que vai fazer.
 - `references/historico-slides.md`: os pedidos e correções dele, slide a slide, em ordem. Ler quando quiser saber "por que essa regra existe".
 - `references/engine.md`: a estrutura do deck e as pegadinhas técnicas. Ler ao criar um deck novo ou mexer no motor.
+- `references/conteudo-ayra/`: o texto-fonte (`proposta.md`) e o roteiro do deck AYRA, como exemplo de fonte digerida.
 - `scripts/capture.mjs`: captura quadros do dev server em 1:1 para conferir.
+
+## Fluxo de um deck novo (nesta ordem, uma etapa fechada por vez)
+
+O tema pode ser qualquer um (proposta comercial, aula de física, treinamento de um aplicativo). A ordem é a mesma:
+
+1. **Ler tudo.** O texto-fonte inteiro (a proposta, a apostila, o roteiro do treinamento) e o material de marca do cliente (site, logos, fontes). Ler eu mesmo, sequencial, inteiro; é o insumo do raciocínio.
+2. **Design system e infra, e só isso.** Paleta (do site do cliente, com as cores exatas), fontes (testar pareamentos e mostrar em imagem para ele escolher), raio de borda, tema claro/escuro/acento, o engine do deck (copiado de `references/deck-ayra/` e ajustado). Nenhum slide de conteúdo ainda. Mostrar e esperar aprovação.
+3. **Digerir o conteúdo num roteiro.** A visão por cima: quantos slides, em que ordem, o tema de cada um, a seção da fonte que cobre, o que a tela mostra e a ideia de cena em uma linha. Exemplo em `references/conteudo-ayra/roteiro.md`. Sem o conteúdo completo de nenhum slide. Mostrar e esperar aprovação; ele costuma reordenar e cortar.
+4. **Um slide por vez, super bem feito.** Só quando chega a vez do slide: reler a seção da fonte, escrever a partitura completa, geometria, código, conferência, autocrítica, mostrar. Aprovado, próximo. Atenção total num só custa menos que oito medianos.
+5. **Ao fechar o deck**, copiar engine e slides para `references/deck-<projeto>/` na skill, com os comentários de ponto de atenção, e o texto-fonte e o roteiro para `references/conteudo-<projeto>/`.
 
 ## Primeira missão num projeto novo: estudar, depois copiar e melhorar
 
