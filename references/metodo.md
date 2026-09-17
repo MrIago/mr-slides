@@ -65,6 +65,7 @@ Destilado de toda a conversa com o Iago (16 e 17/09/2026), da proposta em texto 
 9. Dentro de um card, o respiro entre cabeçalho e conteúdo é igual ao padding das bordas, e a altura vem da conta do conteúdo (duas fileiras de chips pedem mais altura). Nada encosta na borda de baixo.
 10. Diagrama se organiza em faixas (camadas) com rótulo à esquerda e cards alinhados em colunas; setas só verticais e curtas, rótulo ao lado do trecho vertical. Se precisa de cotovelo, o layout está errado.
 11. Slide que resume outro não existe: vira o último passo do outro.
+12. Itens homólogos em colunas (o "ganho" de cada mês, o card de cada persona) têm o mesmo tamanho: largura da coluna e altura fixa que caiba o maior texto, conteúdo centrado na vertical. Três iguais e um menor incomoda quem tem olho.
 
 ## 6. Conteúdo
 

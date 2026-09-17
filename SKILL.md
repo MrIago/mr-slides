@@ -57,6 +57,7 @@ Convenção de comentário no código: cada correção vira um comentário que e
 - Cada `setTimeout` está num `useEffect` com cleanup; ao mudar de passo, o anterior recebe o valor final.
 - Posições absolutas: para cada par simultâneo, `x2 >= x1 + largura1 + 24`; nada com `marginLeft` negativo; legenda em `bottom: 0` com 24px de folga acima.
 - Card: altura = padding + cabeçalho + gap + fileiras × altura da fileira + padding; anotado.
+- Itens homólogos lado a lado têm `width` da coluna e `height` fixa (a do maior), nunca `inline-flex` com largura do texto.
 - Mudo é cor (`#ededed`, `#e4ffe7`, `#9a9a9a`), nunca `opacity`; destaque é a cor normal.
 - Cores usadas: só mint, branco, preto e os dois cinzas; sem vermelho, marrom, degradê.
 - Texto: sem travessão, sem "→", sem emoji, sem "não X, é Y"; frases de 4 a 9 palavras; nomes iguais aos do texto-fonte.
