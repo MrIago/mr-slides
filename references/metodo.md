@@ -42,6 +42,7 @@ Destilado de toda a conversa com o Iago (16 e 17/09/2026), da proposta em texto 
 | Fileira de progresso | ativo enche de preto de baixo para cima com o ícone enchendo de verde; feitos ficam mint |
 | Título que cresce | a parte nova entra com fade e x junto com outra ação (ex.: fileira descendo) |
 | Suavidade | nada aparece do nada: tudo tem entrada (pop, fade com deslocamento, crescer do chão) |
+| Texto que sai do ícone | ícone ancorado na borda (canto superior direito, fora dos cards); o texto cresce para fora dele com largura animada, e a cada troca recolhe e cresce de novo; o ícone troca deslizando dentro do quadradinho. Aprovado no slide do sistema |
 
 ## 4. Paleta, tipografia, ícones
 

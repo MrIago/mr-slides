@@ -97,3 +97,10 @@ Padrão "narrado": texto digitado com trecho sublinhado; a cena reage a dois gat
 - Sem print do Excalidraw: diagrama montado peça a peça, um clique por peça.
 - Primeira versão espalhada, com cotovelos, rótulos em cima das linhas: "refaz, muito espalhado". Organizar em faixas (canais de acesso, núcleo, infraestrutura) com setas verticais curtas, como as lanes do Excalidraw.
 - "As pílulas grudadas no título do card": respiro interno igual ao padding das bordas; card com duas fileiras de chips precisa de altura para a margem de baixo. "Isso é coisa clássica, olhando a imagem você tinha que sacar."
+
+- Garantias fundidas no slide do sistema: uma por clique, a parte do diagrama que a sustenta acesa e o resto mudo por cor. A frase da garantia foi para o canto superior direito, saindo do ícone ("ficou top").
+
+## Slide 10: meses
+
+- Linha do tempo de 90 dias, um mês por clique (trecho enche, título, o que fazemos, o que você ganha), fechamento "código é a parte rápida" com o contador de 200 a 600 mil.
+- "Três cards verdes, um pequenininho": itens homólogos em colunas com a mesma largura e altura (regra 12 do método).
