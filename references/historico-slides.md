@@ -104,3 +104,8 @@ Padrão "narrado": texto digitado com trecho sublinhado; a cena reage a dois gat
 
 - Linha do tempo de 90 dias, um mês por clique (trecho enche, título, o que fazemos, o que você ganha), fechamento "código é a parte rápida" com o contador de 200 a 600 mil.
 - "Três cards verdes, um pequenininho": itens homólogos em colunas com a mesma largura e altura (regra 12 do método).
+- "Esse argumento de 600 mil é do modelo de negócio": o fechamento do slide dos meses virou dois caminhos (com processos e desenho contra codar desde o dia 1), e o argumento do projeto que triplica foi para o slide do modelo de serviço.
+
+## Slide 11: depois do dia 90 (modelo de serviço)
+
+- O modelo, nas palavras dele: braço de tecnologia por assinatura; miramos um objetivo e trabalhamos em ciclos (o primeiro, 90 dias); a cada mês alinhamos as entregas do mês; depois da primeira versão, ajustes, adições e remoções são trabalho do mesmo jeito (às vezes mais, porque o sistema está no ar); duas óticas para fechar o mês (pela entrega ou pelo orçamento) e na prática um orçamento base com as entregas alinhadas nele; o alinhamento do mês é uma expectativa, com liberdade de mudar no caminho; projeto fechado prende os dois lados porque o escopo completo nunca cabe no papel; o código é deles e podem seguir com outros, o nosso interesse é a parceria longa. Princípio: ser sempre claro.

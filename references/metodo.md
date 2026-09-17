@@ -75,6 +75,8 @@ Destilado de toda a conversa com o Iago (16 e 17/09/2026), da proposta em texto 
 - Nunca inventar equipe, template, WhatsApp, Microsoft, "manutenção", preço pós-90 dias, infra ao lado do fee.
 - Sem "não X, é Y". Sem emoji. Sem hype.
 - Perguntas de deixa ("qual dessas dói mais hoje?") vão para o último passo e para as notas.
+- Cada argumento mora no slide do tema dele. "Projeto de 200 vira 600" é argumento do modelo de serviço, e sai do slide dos três meses. Antes de fechar um slide, perguntar: essa frase responde ao título deste slide?
+- Fechamento comparativo em dois caminhos: duas trilhas homólogas (mesma grade, mesma altura), uma por clique, a boa primeiro; a diferença aparece na forma da trilha (reta contra ajuste atrás de ajuste), sem número inventado.
 
 ## 7. Ciclo de autocrítica (entrar no personagem do Iago)
 
